@@ -1,0 +1,9 @@
+megs: 148
+floppya: 1_44=boot.img, status=inserted
+boot: floppy
+floppy_bootsig_check: disabled=0
+log: bochsout.txt
+mouse: enabled=0
+romimage: file=/usr/share/bochs/BIOS-bochs-legacy
+vgaromimage: file=/usr/share/bochs/VGABIOS-lgpl-latest
+
