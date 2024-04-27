@@ -4,3 +4,4 @@ out/
 *.o
 *.s
 boot.img
+/boot.img
